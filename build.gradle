@@ -3,7 +3,7 @@ voice {
     language 'de'
     gender 'male'
     type 'hsmm'
-    description 'A male German Hidden semi-Markov model voice, built from voice recordings provided by the BITS project at the Bavarian Archive of Speech Signals'
+    description 'A male German hidden semi-Markov model voice, built from voice recordings provided by the BITS project at the Bavarian Archive of Speech Signals'
     samplingRate 16000
 }
 
